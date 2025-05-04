@@ -1,0 +1,19 @@
+Python
+
+pycache/ *.py[cod] *.pyc
+
+Jupyter Notebook
+
+.ipynb_checkpoints/
+
+Environments
+
+.env .venv env/ venv/
+
+System files
+
+.DS_Store Thumbs.db
+
+Output files
+
+images/output/*
